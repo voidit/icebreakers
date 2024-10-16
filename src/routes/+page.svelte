@@ -19,7 +19,7 @@
         if (usedPrompts.size === prompts.length) {
             // Reset used prompts when all have been displayed
             usedPrompts.clear();
-            alert("All prompts have been used. Starting over!");
+            console.log("All prompts have been used. Starting over!");
         }
 
         let prompt;

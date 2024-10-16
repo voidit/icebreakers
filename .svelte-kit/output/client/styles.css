@@ -17,14 +17,22 @@ main {
     background-color: #1e1e1e; /* Darker card background */
 }
 
-h1 {
+h1,
+.schoolbell-regular {
+    font-family: "Schoolbell", cursive;
+    font-weight: 400;
+    font-style: normal;
     margin-bottom: 20px;
     color: #ffffff; /* White color for the heading */
 }
 
-button {
+button,
+.walter-turncoat-regular {
+    font-family: "Walter Turncoat", cursive;
+    font-weight: 400;
+    font-style: normal;
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 24px;
     border: none;
     border-radius: 5px;
     background-color: #bb86fc; /* Purple color for the button */
