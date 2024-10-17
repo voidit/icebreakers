@@ -43,5 +43,8 @@
 
 <main>
     <h1>{randomPrompt}</h1>
-    <button on:click={shufflePrompt}>Shuffle</button>
+<!--    <button on:click={shufflePrompt}>Shuffle</button>-->
+    <label>
+        <input class="bubble" type="checkbox" name="dummy" value="on"  on:click={shufflePrompt}>
+    </label>
 </main>
