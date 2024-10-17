@@ -6,7 +6,7 @@
 
     async function fetchPrompts() {
         try {
-            const response = await fetch('./src/prompts.json');
+            const response = await fetch('./src/data/prompts.json');
             if (!response.ok) throw new Error('Network response was not ok');
             return await response.json();
         } catch (error) {
