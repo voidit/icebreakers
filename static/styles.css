@@ -228,7 +228,7 @@ label {
 }
 .bubble:focus:before, .bubble:hover:before {
     /*filter: drop-shadow(0.75em 0.75em 4px hsla(0,0%,0%,0.2));*/
-    transform: rotate(-90deg);
+    transform: rotate(-30deg);
     transition: all 5s ease;
 }
 .bubble:focus:after, .bubble:hover:after {
