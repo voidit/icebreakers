@@ -40,7 +40,7 @@
         prompts = await fetchPrompts();
         randomPrompt = getRandomPrompt();
         popSound = new Howl({
-            src: ["./bubble_wrap.mp3"],
+            src: ["./bubble_wrap.mp3?url"],
             autoplay: false,
             loop: false,
             volume: 1.0,
@@ -123,6 +123,7 @@
     }
     .bw-cover, .bw-cover:before, .bw-input {
         border-radius: 50%;
+        border-width: 0.1rem;
     }
     .bw-cover, .bw-input {
         background-color: hsl(0,0%,70%);
@@ -155,13 +156,13 @@
     }
     .bw-input {
         box-shadow:
-                0 0 0 0.05em hsl(0,0%,85%) inset,
+                0 0 0 0.05rem hsl(0,0%,85%) inset,
                 0 0 0 hsl(223,10%,85%) inset,
-                0.2em 0 0.1em hsl(223,10%,55%) inset,
-                0 0.2em 0.1em hsl(223,10%,55%) inset,
-                0.25em 0.25em 0.1em hsl(0,0%,100%) inset,
-                0.6em 0.6em 0.4em 0.5em hsl(223,10%,55%) inset,
-                0 0 0.25em hsl(223,10%,65%);
+                0.2rem 0 0.1rem hsl(223,10%,55%) inset,
+                0 0.2rem 0.1rem hsl(223,10%,55%) inset,
+                0.25rem 0.25rem 0.1rem hsl(0,0%,100%) inset,
+                0.6rem 0.6rem 0.4rem 0.5rem hsl(223,10%,55%) inset,
+                0 0 0.25rem hsl(223,10%,65%);
     }
     .bw-cover, .bw-input:checked, .bw-input:checked + .bw-label {
         visibility: hidden;
@@ -170,11 +171,11 @@
         box-shadow:
                 0 0 0 0.05em hsl(0,0%,70%) inset,
                 0 0 0 hsl(223,10%,85%) inset,
-                0.1em 0 0.1em hsl(223,10%,55%) inset,
-                0 0.1em 0.1em hsl(223,10%,55%) inset,
-                0.15em 0.15em 0.1em hsl(0,0%,100%) inset,
-                0.7em 0.7em 0.4em 0.5em hsl(223,10%,55%) inset,
-                0 0 0.25em hsl(223,10%,65%);
+                0.1rem 0 0.1rem hsl(223,10%,55%) inset,
+                0 0.1rem 0.1rem hsl(223,10%,55%) inset,
+                0.15rem 0.15rem 0.1rem hsl(0,0%,100%) inset,
+                0.7rem 0.7rem 0.4rem 0.5rem hsl(223,10%,55%) inset,
+                0 0 0.25rem hsl(223,10%,65%);
     }
     .bw-input:focus {
         outline: transparent;
