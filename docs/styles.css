@@ -58,7 +58,7 @@ body {
 
 main {
     text-align: center;
-    padding: 20%;
+    padding: 3%;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     background-color: #e0e0e0;
@@ -76,7 +76,7 @@ h1,
     font-family: "Schoolbell", cursive;
     font-weight: 400;
     font-style: normal;
-    margin-bottom: 20%;
+    margin-bottom: 5%;
     color: #1e1e1e;
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
     background: -webkit-linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);

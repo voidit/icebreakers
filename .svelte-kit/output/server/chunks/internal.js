@@ -1,6 +1,8 @@
 import { c as create_ssr_component, a as setContext, v as validate_component, m as missing_component } from "./ssr.js";
+import { a as afterUpdate } from "./ssr2.js";
 let base = "";
 let assets = base;
+const app_dir = "app";
 const initial = { base, assets };
 function override(paths) {
   base = paths.base;
@@ -28,8 +30,6 @@ function set_read_implementation(fn) {
   read_implementation = fn;
 }
 function set_manifest(_) {
-}
-function afterUpdate() {
 }
 let prerendering = false;
 function set_building() {
@@ -104,13 +104,13 @@ const Root = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return $$rendered;
 });
 const options = {
-  app_dir: "app",
   app_template_contains_nonce: false,
   csp: { "mode": "auto", "directives": { "upgrade-insecure-requests": false, "block-all-mixed-content": false }, "reportOnly": { "upgrade-insecure-requests": false, "block-all-mixed-content": false } },
   csrf_check_origin: true,
   embedded: false,
   env_public_prefix: "PUBLIC_",
   env_private_prefix: "",
+  hash_routing: false,
   hooks: null,
   // added lazily, via `get_hooks`
   preload_strategy: "modulepreload",
@@ -189,28 +189,42 @@ const options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "204p76"
+  version_hash: "1sujods"
 };
 async function get_hooks() {
-  return {};
+  let handle;
+  let handleFetch;
+  let handleError;
+  let init;
+  let reroute;
+  let transport;
+  return {
+    handle,
+    handleFetch,
+    handleError,
+    init,
+    reroute,
+    transport
+  };
 }
 export {
   assets as a,
   base as b,
-  read_implementation as c,
-  options as d,
-  set_private_env as e,
-  prerendering as f,
-  set_public_env as g,
-  get_hooks as h,
-  set_safe_public_env as i,
-  set_read_implementation as j,
-  set_assets as k,
-  set_building as l,
-  set_manifest as m,
-  set_prerendering as n,
+  app_dir as c,
+  read_implementation as d,
+  options as e,
+  set_private_env as f,
+  get_hooks as g,
+  prerendering as h,
+  set_public_env as i,
+  set_safe_public_env as j,
+  set_read_implementation as k,
+  set_assets as l,
+  set_building as m,
+  set_manifest as n,
   override as o,
   public_env as p,
+  set_prerendering as q,
   reset as r,
   safe_public_env as s
 };
