@@ -10,7 +10,7 @@ return {
 	assets: new Set(["CNAME","bubble_wrap.mp3","data/prompts.json","favicon.png","styles.css"]),
 	mimeTypes: {".mp3":"audio/mpeg",".json":"application/json",".png":"image/png",".css":"text/css"},
 	_: {
-		client: {start:"app/immutable/entry/start.CaO5rE9J.js",app:"app/immutable/entry/app.D1MkXX10.js",imports:["app/immutable/entry/start.CaO5rE9J.js","app/immutable/chunks/BIX_wMtm.js","app/immutable/chunks/B2QSKqcC.js","app/immutable/entry/app.D1MkXX10.js","app/immutable/chunks/B2QSKqcC.js","app/immutable/chunks/D4CtbWbK.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
+		client: {start:"app/immutable/entry/start.DjhRiw-y.js",app:"app/immutable/entry/app.C1zjM84M.js",imports:["app/immutable/entry/start.DjhRiw-y.js","app/immutable/chunks/B-sfa5Gl.js","app/immutable/chunks/B2QSKqcC.js","app/immutable/entry/app.C1zjM84M.js","app/immutable/chunks/B2QSKqcC.js","app/immutable/chunks/D4CtbWbK.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
 		nodes: [
 			
 		],

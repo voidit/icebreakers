@@ -233,7 +233,7 @@
   },
   {
     "id": 59,
-    "prompt": "What is your favorite way to express creativity?"
+    "prompt": "What is your favorite way to express love and creativity?"
   },
   {
     "id": 60,
@@ -281,282 +281,498 @@
   },
   {
     "id": 71,
-    "prompt": "If you could have dinner with any historical figure, who would it be and why?"
+    "prompt": "If you could have dinner with any historical figure, who would it be and why? (Alternate)"
   },
   {
     "id": 72,
+    "prompt": "If you could be anyone for one day, who would it be?"
+  },
+  {
+    "id": 1,
+    "prompt": "If you could have dinner with any historical figure, who would it be and why?"
+  },
+  {
+    "id": 2,
     "prompt": "What is one thing on your bucket list that you hope to accomplish in the next five years?"
   },
   {
-    "id": 73,
+    "id": 3,
     "prompt": "If you could instantly become an expert in any field, what would it be?"
   },
   {
-    "id": 74,
+    "id": 4,
     "prompt": "What is your favorite book or movie, and what impact did it have on you?"
   },
   {
-    "id": 75,
+    "id": 5,
     "prompt": "If you could travel anywhere in the world right now, where would you go?"
   },
   {
-    "id": 76,
+    "id": 6,
     "prompt": "What is a skill you would like to learn and why?"
   },
   {
-    "id": 77,
-    "prompt": "If you could have any tool, what would it be and how would you use it?"
+    "id": 7,
+    "prompt": "If you could have any superpower, what would it be and how would you use it?"
   },
   {
-    "id": 78,
+    "id": 8,
     "prompt": "What is your favorite childhood memory?"
   },
   {
-    "id": 79,
+    "id": 9,
     "prompt": "If you could live in any fictional universe, which one would you choose?"
   },
   {
-    "id": 80,
+    "id": 10,
     "prompt": "What is one piece of advice you would give to your younger self?"
   },
   {
-    "id": 81,
+    "id": 11,
     "prompt": "What is your favorite way to spend a day off?"
   },
   {
-    "id": 82,
+    "id": 12,
     "prompt": "If you could meet any celebrity, who would it be?"
   },
   {
-    "id": 83,
+    "id": 13,
     "prompt": "What is your go-to karaoke song?"
   },
   {
-    "id": 84,
+    "id": 14,
     "prompt": "What is the best gift you have ever received?"
   },
   {
-    "id": 85,
+    "id": 15,
     "prompt": "If you could time travel, would you go to the past or the future?"
   },
   {
-    "id": 86,
+    "id": 16,
     "prompt": "What is your favorite holiday tradition?"
   },
   {
-    "id": 87,
+    "id": 17,
     "prompt": "What is one thing you cannot live without?"
   },
   {
-    "id": 88,
+    "id": 18,
     "prompt": "If you could have any animal as a pet, what would it be?"
   },
   {
-    "id": 89,
+    "id": 19,
     "prompt": "What is your favorite food or dish?"
   },
   {
-    "id": 90,
+    "id": 20,
     "prompt": "What is a hobby you have always wanted to try?"
   },
   {
-    "id": 91,
+    "id": 21,
     "prompt": "If you could change one thing about the world, what would it be?"
   },
   {
-    "id": 92,
+    "id": 22,
     "prompt": "What is your favorite season and why?"
   },
   {
-    "id": 93,
+    "id": 23,
     "prompt": "What is the most adventurous thing you have ever done?"
   },
   {
-    "id": 94,
+    "id": 24,
     "prompt": "If you could learn any language, which one would you choose?"
   },
   {
-    "id": 95,
+    "id": 25,
     "prompt": "What is your favorite way to relax after a long day?"
   },
   {
-    "id": 96,
+    "id": 26,
     "prompt": "What is your favorite childhood game?"
   },
   {
-    "id": 97,
+    "id": 27,
     "prompt": "If you could live anywhere in the world, where would it be?"
   },
   {
-    "id": 98,
+    "id": 28,
     "prompt": "What is your favorite type of music?"
   },
   {
-    "id": 99,
+    "id": 29,
     "prompt": "What is the best piece of advice you have ever received?"
   },
   {
-    "id": 100,
+    "id": 30,
     "prompt": "If you could have dinner with any fictional character, who would it be?"
   },
   {
-    "id": 101,
+    "id": 31,
     "prompt": "What is your favorite outdoor activity?"
   },
   {
-    "id": 102,
+    "id": 32,
     "prompt": "What is your dream job?"
   },
   {
-    "id": 103,
+    "id": 33,
     "prompt": "What is your favorite movie genre?"
   },
   {
-    "id": 104,
+    "id": 34,
     "prompt": "If you could master any instrument, which one would it be?"
   },
   {
-    "id": 105,
+    "id": 35,
     "prompt": "What is your favorite way to stay active?"
   },
   {
-    "id": 106,
+    "id": 36,
     "prompt": "What is your favorite ice cream flavor?"
   },
   {
-    "id": 107,
+    "id": 37,
     "prompt": "If you could have any job for a day, what would it be?"
   },
   {
-    "id": 108,
+    "id": 38,
     "prompt": "What is your favorite thing about your hometown?"
   },
   {
-    "id": 109,
+    "id": 39,
     "prompt": "What is your favorite quote or saying?"
   },
   {
-    "id": 110,
+    "id": 40,
     "prompt": "If you could change one thing about yourself, what would it be?"
   },
   {
-    "id": 111,
+    "id": 41,
     "prompt": "What is your favorite way to celebrate your birthday?"
   },
   {
-    "id": 112,
+    "id": 42,
     "prompt": "What is your favorite board game?"
   },
   {
-    "id": 113,
+    "id": 43,
     "prompt": "If you could have any car, what would it be?"
   },
   {
-    "id": 114,
+    "id": 44,
     "prompt": "What is your favorite thing to do on a rainy day?"
   },
   {
-    "id": 115,
+    "id": 45,
     "prompt": "What is your favorite type of cuisine?"
   },
   {
-    "id": 116,
+    "id": 46,
     "prompt": "If you could visit any planet, which one would you choose?"
   },
   {
-    "id": 117,
-    "prompt": "What is your favorite thing to do with your friends?"
+    "id": 47,
+    "prompt": "What is your favorite way to give back to the community?"
   },
   {
-    "id": 118,
+    "id": 48,
     "prompt": "What is your favorite childhood book?"
   },
   {
-    "id": 119,
+    "id": 49,
     "prompt": "If you could have any talent, what would it be?"
   },
   {
-    "id": 120,
+    "id": 50,
     "prompt": "What is your favorite way to spend time with friends?"
   },
   {
-    "id": 121,
+    "id": 51,
     "prompt": "What is your favorite thing to do in your free time?"
   },
   {
-    "id": 122,
+    "id": 52,
     "prompt": "If you could be any animal for a day, which one would you choose?"
   },
   {
-    "id": 123,
+    "id": 53,
     "prompt": "What is your favorite family tradition?"
   },
   {
-    "id": 124,
+    "id": 54,
     "prompt": "What is your favorite thing about your job?"
   },
   {
-    "id": 125,
+    "id": 55,
     "prompt": "If you could have a dinner party with any three people, dead or alive, who would they be?"
   },
   {
-    "id": 126,
+    "id": 56,
     "prompt": "What is your favorite way to unwind after a stressful day?"
   },
   {
-    "id": 127,
+    "id": 57,
     "prompt": "What is your favorite thing to cook or bake?"
   },
   {
-    "id": 128,
+    "id": 58,
     "prompt": "If you could change one law, what would it be?"
   },
   {
-    "id": 129,
-    "prompt": "What is your favorite way to express creativity?"
+    "id": 59,
+    "prompt": "What is your favorite way to express love and creativity?"
   },
   {
-    "id": 130,
+    "id": 60,
     "prompt": "What is your favorite thing about nature?"
   },
   {
-    "id": 131,
+    "id": 61,
     "prompt": "If you could have any job in the world, what would it be?"
   },
   {
-    "id": 132,
+    "id": 62,
     "prompt": "What is your favorite way to stay organized?"
   },
   {
-    "id": 133,
+    "id": 63,
     "prompt": "What is your favorite thing to do on the weekends?"
   },
   {
-    "id": 134,
-    "prompt": "If you could be anyone for a day, who would it be?"
+    "id": 64,
+    "prompt": "If you could have a superpower for a day, what would it be?"
   },
   {
-    "id": 135,
+    "id": 65,
     "prompt": "What is your favorite way to learn something new?"
   },
   {
-    "id": 136,
+    "id": 66,
     "prompt": "What is your favorite thing about technology?"
   },
   {
-    "id": 137,
+    "id": 67,
     "prompt": "If you could have any fictional character as a best friend, who would it be?"
   },
   {
-    "id": 138,
+    "id": 68,
     "prompt": "What is your favorite way to celebrate achievements?"
   },
   {
-    "id": 139,
+    "id": 69,
     "prompt": "What is your favorite thing to do in the summer?"
   },
   {
-    "id": 140,
+    "id": 70,
     "prompt": "If you could have any mythical creature as a pet, what would it be?"
+  },
+  {
+    "id": 71,
+    "prompt": "If you could have dinner with any historical figure, who would it be and why? (Alternate)"
+  },
+  {
+    "id": 72,
+    "prompt": "If you could be anyone for one day, who would it be?"
+  },
+  {
+    "id": 73,
+    "prompt": "What is your favorite thing about space or astronomy?"
+  },
+  {
+    "id": 74,
+    "prompt": "If you could design a theme park ride, what would it be like?"
+  },
+  {
+    "id": 75,
+    "prompt": "What is your favorite memory from school or university?"
+  },
+  {
+    "id": 76,
+    "prompt": "If you could start any business, what would it be?"
+  },
+  {
+    "id": 77,
+    "prompt": "What is the most unique thing you've ever eaten?"
+  },
+  {
+    "id": 78,
+    "prompt": "If you could relive one day of your life, which one would it be?"
+  },
+  {
+    "id": 79,
+    "prompt": "What is your favorite scent or smell, and why?"
+  },
+  {
+    "id": 80,
+    "prompt": "If you could create an invention that doesn’t exist yet, what would it be?"
+  },
+  {
+    "id": 81,
+    "prompt": "What is your favorite type of artwork or creative expression?"
+  },
+  {
+    "id": 82,
+    "prompt": "If you could spend an entire day with one of your role models, who would it be?"
+  },
+  {
+    "id": 83,
+    "prompt": "What is the most interesting place you’ve ever visited?"
+  },
+  {
+    "id": 84,
+    "prompt": "If you could be the protagonist in a book or movie, which one would you choose?"
+  },
+  {
+    "id": 85,
+    "prompt": "What is one thing you’ve always wanted to try but never had the chance?"
+  },
+  {
+    "id": 86,
+    "prompt": "If you could magically solve any problem in the world, what would it be?"
+  },
+  {
+    "id": 87,
+    "prompt": "What is your favorite spot in your home or city?"
+  },
+  {
+    "id": 88,
+    "prompt": "If you could switch lives with someone for a week, who would it be?"
+  },
+  {
+    "id": 89,
+    "prompt": "What is the best way to spend a weekend in your opinion?"
+  },
+  {
+    "id": 90,
+    "prompt": "If you could build your dream house, what would it look like?"
+  },
+  {
+    "id": 91,
+    "prompt": "What is your favorite item that you own and why?"
+  },
+  {
+    "id": 92,
+    "prompt": "If you could experience any moment in history firsthand, what would it be?"
+  },
+  {
+    "id": 93,
+    "prompt": "What is your favorite dessert or sweet treat?"
+  },
+  {
+    "id": 94,
+    "prompt": "If you had the opportunity to live on a boat, would you do it?"
+  },
+  {
+    "id": 95,
+    "prompt": "What is a random fun fact about yourself?"
+  },
+  {
+    "id": 96,
+    "prompt": "If you could learn a traditional craft or skill, what would it be?"
+  },
+  {
+    "id": 97,
+    "prompt": "What is your favorite app or online tool?"
+  },
+  {
+    "id": 98,
+    "prompt": "If you were an architect, what kind of building would you design?"
+  },
+  {
+    "id": 99,
+    "prompt": "What is the most inspiring story you’ve ever heard?"
+  },
+  {
+    "id": 100,
+    "prompt": "If you could compose a music album, what genre would it be?"
+  },
+  {
+    "id": 101,
+    "prompt": "What is your favorite thing to watch or read to relax?"
+  },
+  {
+    "id": 102,
+    "prompt": "If you could be a guest star on any TV show, which one would it be?"
+  },
+  {
+    "id": 103,
+    "prompt": "What is your favorite memory from traveling?"
+  },
+  {
+    "id": 104,
+    "prompt": "If you could take a class on any topic, what would it be?"
+  },
+  {
+    "id": 105,
+    "prompt": "What is the most thoughtful gift you’ve ever given?"
+  },
+  {
+    "id": 106,
+    "prompt": "If you could live in any time period, which one would you choose?"
+  },
+  {
+    "id": 107,
+    "prompt": "What is your favorite type of clothing or accessory?"
+  },
+  {
+    "id": 108,
+    "prompt": "If you could build a robot to help you with one task, what would it do?"
+  },
+  {
+    "id": 109,
+    "prompt": "What is your favorite poem, or do you have one that resonates with you?"
+  },
+  {
+    "id": 110,
+    "prompt": "If you could organize a festival, what would it be about?"
+  },
+  {
+    "id": 111,
+    "prompt": "What is something simple that brings you joy?"
+  },
+  {
+    "id": 112,
+    "prompt": "If you could live life as an animal, which one would you pick?"
+  },
+  {
+    "id": 113,
+    "prompt": "What is your all-time favorite city or town to visit?"
+  },
+  {
+    "id": 114,
+    "prompt": "If you were to write an autobiography, what would the title be?"
+  },
+  {
+    "id": 115,
+    "prompt": "What is the most inspiring thing someone has ever said to you?"
+  },
+  {
+    "id": 116,
+    "prompt": "If you could decorate your entire home with one style, what would it be?"
+  },
+  {
+    "id": 117,
+    "prompt": "What is one thing you’ve always been curious to learn about?"
+  },
+  {
+    "id": 118,
+    "prompt": "If you could turn any location into a magical place, what would it look like?"
+  },
+  {
+    "id": 119,
+    "prompt": "What is your dream road trip destination?"
+  },
+  {
+    "id": 120,
+    "prompt": "If you could visit an underwater city, what would you hope to see?"
+  },
+  {
+    "id": 121,
+    "prompt": "What type of game or activity do you enjoy playing with friends?"
+  },
+  {
+    "id": 122,
+    "prompt": "If you could design a museum exhibit, what would it feature?"
   }
 ]
